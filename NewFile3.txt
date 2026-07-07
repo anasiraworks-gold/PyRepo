@@ -1,0 +1,7 @@
+#this is NewFile3
+
+this is new file3 --1
+this is new file3 --1
+this is new file3
+this is new file3
+this is new file3
