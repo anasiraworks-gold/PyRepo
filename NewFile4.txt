@@ -1,0 +1,10 @@
+#this is NewFile4
+
+this is new file4 --1
+this is new file4 --1
+this is new file4
+this is new file4
+this is new file4
+
+
+Adding the newline at the end of file
